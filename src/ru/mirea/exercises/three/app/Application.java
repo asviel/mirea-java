@@ -1,6 +1,5 @@
 package ru.mirea.exercises.three.app;
 
-import ru.mirea.exercises.three.documents.TextDocument;
 import ru.mirea.exercises.three.factories.CreateTextDocument;
 import ru.mirea.exercises.three.factories.ICreateDocument;
 import ru.mirea.exercises.three.factories.IDocument;
